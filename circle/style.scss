@@ -1,0 +1,48 @@
+
+ @mixin c() {
+     border-radius: 50%;
+
+}
+@for $i from 1 to 90 {
+    .div{
+        div:nth-child(#{$i}){
+            border-radius: random(100)+px;
+            background-color: rgb(random(256),random(256),random(256));
+            animation-name: circles#{$i};
+            animation-duration: random(1000)+3000+1000+ms;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            position: absolute;
+            @include c();
+        }
+   }
+    @keyframes  circles#{$i}{
+      0%{
+        left: random(1000)+px;
+        top: random(1000)+px;
+        width: (50)+px;
+        height: (50)+px;
+      }
+       40%{
+        width: (100)+px;
+        height: (100)+px;
+      }
+      70%{
+        width: (100)+px;
+        height: (100)+px;
+      }
+           
+      100%{ 
+       left: random(1000)+300+px;
+        top: random(800)+px;
+        width: (150)+px;
+        height: (150)+px;
+      }
+    }}
+
+
+
+
+
+
+

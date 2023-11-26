@@ -1,0 +1,44 @@
+
+
+$wi: 20;
+$he: 1200;
+
+.somediv {
+    width: $wi*90+px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@for $i from 1 to 50{
+    .somediv{
+        &:hover{
+            background-color:rgb(random(256),random(256),random(256));
+
+        }
+        div:nth-child(#{$i}){
+            width: $wi*100+px;
+            background-color: rgb(random(256),random(256),random(256));
+            animation-name: piano#{$i};
+            animation-iteration-count:infinite;
+            animation-direction: alternate;
+            animation-duration: random(1000)+4000+ms;
+
+        }
+    }
+    @keyframes  piano#{$i}{
+        0%{
+            height: 200+px;
+          }
+        30%{
+            height: 300+px;
+          }
+        70%{
+            height: 400+px;
+          }
+        100%{
+            height: 600+px;
+          }
+          
+          
+    }
+}

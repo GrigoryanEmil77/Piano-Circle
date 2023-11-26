@@ -1,0 +1,2211 @@
+.somediv {
+  width: 1800px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.somediv:hover {
+  background-color: rgb(206, 185, 3);
+}
+.somediv div:nth-child(1) {
+  width: 2000px;
+  background-color: rgb(48, 185, 153);
+  -webkit-animation-name: piano1;
+          animation-name: piano1;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4544ms;
+          animation-duration: 4544ms;
+}
+
+@-webkit-keyframes piano1 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano1 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(74, 201, 42);
+}
+.somediv div:nth-child(2) {
+  width: 2000px;
+  background-color: rgb(243, 143, 208);
+  -webkit-animation-name: piano2;
+          animation-name: piano2;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4962ms;
+          animation-duration: 4962ms;
+}
+
+@-webkit-keyframes piano2 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano2 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(206, 6, 99);
+}
+.somediv div:nth-child(3) {
+  width: 2000px;
+  background-color: rgb(236, 65, 218);
+  -webkit-animation-name: piano3;
+          animation-name: piano3;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4033ms;
+          animation-duration: 4033ms;
+}
+
+@-webkit-keyframes piano3 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano3 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(14, 65, 57);
+}
+.somediv div:nth-child(4) {
+  width: 2000px;
+  background-color: rgb(107, 168, 189);
+  -webkit-animation-name: piano4;
+          animation-name: piano4;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4346ms;
+          animation-duration: 4346ms;
+}
+
+@-webkit-keyframes piano4 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano4 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(140, 171, 249);
+}
+.somediv div:nth-child(5) {
+  width: 2000px;
+  background-color: rgb(43, 129, 215);
+  -webkit-animation-name: piano5;
+          animation-name: piano5;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4321ms;
+          animation-duration: 4321ms;
+}
+
+@-webkit-keyframes piano5 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano5 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(29, 190, 219);
+}
+.somediv div:nth-child(6) {
+  width: 2000px;
+  background-color: rgb(62, 101, 161);
+  -webkit-animation-name: piano6;
+          animation-name: piano6;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4872ms;
+          animation-duration: 4872ms;
+}
+
+@-webkit-keyframes piano6 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano6 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(190, 230, 80);
+}
+.somediv div:nth-child(7) {
+  width: 2000px;
+  background-color: rgb(196, 132, 220);
+  -webkit-animation-name: piano7;
+          animation-name: piano7;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4592ms;
+          animation-duration: 4592ms;
+}
+
+@-webkit-keyframes piano7 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano7 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(230, 82, 162);
+}
+.somediv div:nth-child(8) {
+  width: 2000px;
+  background-color: rgb(180, 121, 147);
+  -webkit-animation-name: piano8;
+          animation-name: piano8;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4720ms;
+          animation-duration: 4720ms;
+}
+
+@-webkit-keyframes piano8 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano8 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(56, 204, 230);
+}
+.somediv div:nth-child(9) {
+  width: 2000px;
+  background-color: rgb(248, 5, 68);
+  -webkit-animation-name: piano9;
+          animation-name: piano9;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4857ms;
+          animation-duration: 4857ms;
+}
+
+@-webkit-keyframes piano9 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano9 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(140, 21, 168);
+}
+.somediv div:nth-child(10) {
+  width: 2000px;
+  background-color: rgb(249, 15, 237);
+  -webkit-animation-name: piano10;
+          animation-name: piano10;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4580ms;
+          animation-duration: 4580ms;
+}
+
+@-webkit-keyframes piano10 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano10 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(224, 149, 80);
+}
+.somediv div:nth-child(11) {
+  width: 2000px;
+  background-color: rgb(56, 115, 78);
+  -webkit-animation-name: piano11;
+          animation-name: piano11;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4143ms;
+          animation-duration: 4143ms;
+}
+
+@-webkit-keyframes piano11 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano11 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(112, 166, 182);
+}
+.somediv div:nth-child(12) {
+  width: 2000px;
+  background-color: rgb(255, 175, 133);
+  -webkit-animation-name: piano12;
+          animation-name: piano12;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4455ms;
+          animation-duration: 4455ms;
+}
+
+@-webkit-keyframes piano12 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano12 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(73, 103, 138);
+}
+.somediv div:nth-child(13) {
+  width: 2000px;
+  background-color: rgb(245, 25, 204);
+  -webkit-animation-name: piano13;
+          animation-name: piano13;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4237ms;
+          animation-duration: 4237ms;
+}
+
+@-webkit-keyframes piano13 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano13 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(163, 243, 117);
+}
+.somediv div:nth-child(14) {
+  width: 2000px;
+  background-color: rgb(179, 193, 162);
+  -webkit-animation-name: piano14;
+          animation-name: piano14;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4986ms;
+          animation-duration: 4986ms;
+}
+
+@-webkit-keyframes piano14 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano14 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(224, 80, 5);
+}
+.somediv div:nth-child(15) {
+  width: 2000px;
+  background-color: rgb(78, 232, 1);
+  -webkit-animation-name: piano15;
+          animation-name: piano15;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4483ms;
+          animation-duration: 4483ms;
+}
+
+@-webkit-keyframes piano15 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano15 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(116, 83, 227);
+}
+.somediv div:nth-child(16) {
+  width: 2000px;
+  background-color: rgb(138, 21, 254);
+  -webkit-animation-name: piano16;
+          animation-name: piano16;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4912ms;
+          animation-duration: 4912ms;
+}
+
+@-webkit-keyframes piano16 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano16 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(125, 50, 159);
+}
+.somediv div:nth-child(17) {
+  width: 2000px;
+  background-color: rgb(200, 254, 157);
+  -webkit-animation-name: piano17;
+          animation-name: piano17;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4024ms;
+          animation-duration: 4024ms;
+}
+
+@-webkit-keyframes piano17 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano17 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(83, 196, 37);
+}
+.somediv div:nth-child(18) {
+  width: 2000px;
+  background-color: rgb(143, 62, 67);
+  -webkit-animation-name: piano18;
+          animation-name: piano18;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4522ms;
+          animation-duration: 4522ms;
+}
+
+@-webkit-keyframes piano18 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano18 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(200, 167, 226);
+}
+.somediv div:nth-child(19) {
+  width: 2000px;
+  background-color: rgb(221, 148, 190);
+  -webkit-animation-name: piano19;
+          animation-name: piano19;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4703ms;
+          animation-duration: 4703ms;
+}
+
+@-webkit-keyframes piano19 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano19 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(96, 97, 147);
+}
+.somediv div:nth-child(20) {
+  width: 2000px;
+  background-color: rgb(156, 20, 87);
+  -webkit-animation-name: piano20;
+          animation-name: piano20;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4483ms;
+          animation-duration: 4483ms;
+}
+
+@-webkit-keyframes piano20 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano20 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(110, 6, 134);
+}
+.somediv div:nth-child(21) {
+  width: 2000px;
+  background-color: rgb(48, 150, 126);
+  -webkit-animation-name: piano21;
+          animation-name: piano21;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4955ms;
+          animation-duration: 4955ms;
+}
+
+@-webkit-keyframes piano21 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano21 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(249, 195, 29);
+}
+.somediv div:nth-child(22) {
+  width: 2000px;
+  background-color: rgb(191, 98, 8);
+  -webkit-animation-name: piano22;
+          animation-name: piano22;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4211ms;
+          animation-duration: 4211ms;
+}
+
+@-webkit-keyframes piano22 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano22 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(164, 86, 255);
+}
+.somediv div:nth-child(23) {
+  width: 2000px;
+  background-color: rgb(7, 126, 5);
+  -webkit-animation-name: piano23;
+          animation-name: piano23;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4770ms;
+          animation-duration: 4770ms;
+}
+
+@-webkit-keyframes piano23 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano23 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(16, 215, 136);
+}
+.somediv div:nth-child(24) {
+  width: 2000px;
+  background-color: rgb(247, 177, 11);
+  -webkit-animation-name: piano24;
+          animation-name: piano24;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4582ms;
+          animation-duration: 4582ms;
+}
+
+@-webkit-keyframes piano24 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano24 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(145, 98, 60);
+}
+.somediv div:nth-child(25) {
+  width: 2000px;
+  background-color: rgb(222, 191, 101);
+  -webkit-animation-name: piano25;
+          animation-name: piano25;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4141ms;
+          animation-duration: 4141ms;
+}
+
+@-webkit-keyframes piano25 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano25 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(122, 249, 74);
+}
+.somediv div:nth-child(26) {
+  width: 2000px;
+  background-color: rgb(27, 50, 211);
+  -webkit-animation-name: piano26;
+          animation-name: piano26;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4012ms;
+          animation-duration: 4012ms;
+}
+
+@-webkit-keyframes piano26 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano26 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(230, 219, 116);
+}
+.somediv div:nth-child(27) {
+  width: 2000px;
+  background-color: rgb(234, 175, 212);
+  -webkit-animation-name: piano27;
+          animation-name: piano27;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4769ms;
+          animation-duration: 4769ms;
+}
+
+@-webkit-keyframes piano27 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano27 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(192, 15, 195);
+}
+.somediv div:nth-child(28) {
+  width: 2000px;
+  background-color: rgb(111, 204, 141);
+  -webkit-animation-name: piano28;
+          animation-name: piano28;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4626ms;
+          animation-duration: 4626ms;
+}
+
+@-webkit-keyframes piano28 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano28 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(165, 141, 125);
+}
+.somediv div:nth-child(29) {
+  width: 2000px;
+  background-color: rgb(3, 4, 214);
+  -webkit-animation-name: piano29;
+          animation-name: piano29;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4972ms;
+          animation-duration: 4972ms;
+}
+
+@-webkit-keyframes piano29 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano29 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(3, 147, 178);
+}
+.somediv div:nth-child(30) {
+  width: 2000px;
+  background-color: rgb(81, 253, 154);
+  -webkit-animation-name: piano30;
+          animation-name: piano30;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4363ms;
+          animation-duration: 4363ms;
+}
+
+@-webkit-keyframes piano30 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano30 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(9, 150, 100);
+}
+.somediv div:nth-child(31) {
+  width: 2000px;
+  background-color: rgb(70, 163, 190);
+  -webkit-animation-name: piano31;
+          animation-name: piano31;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4570ms;
+          animation-duration: 4570ms;
+}
+
+@-webkit-keyframes piano31 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano31 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(8, 152, 31);
+}
+.somediv div:nth-child(32) {
+  width: 2000px;
+  background-color: rgb(144, 64, 19);
+  -webkit-animation-name: piano32;
+          animation-name: piano32;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4778ms;
+          animation-duration: 4778ms;
+}
+
+@-webkit-keyframes piano32 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano32 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(10, 167, 109);
+}
+.somediv div:nth-child(33) {
+  width: 2000px;
+  background-color: rgb(227, 108, 46);
+  -webkit-animation-name: piano33;
+          animation-name: piano33;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4977ms;
+          animation-duration: 4977ms;
+}
+
+@-webkit-keyframes piano33 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano33 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(79, 235, 205);
+}
+.somediv div:nth-child(34) {
+  width: 2000px;
+  background-color: rgb(27, 83, 105);
+  -webkit-animation-name: piano34;
+          animation-name: piano34;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4685ms;
+          animation-duration: 4685ms;
+}
+
+@-webkit-keyframes piano34 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano34 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(99, 233, 199);
+}
+.somediv div:nth-child(35) {
+  width: 2000px;
+  background-color: rgb(241, 17, 154);
+  -webkit-animation-name: piano35;
+          animation-name: piano35;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4919ms;
+          animation-duration: 4919ms;
+}
+
+@-webkit-keyframes piano35 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano35 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(196, 209, 39);
+}
+.somediv div:nth-child(36) {
+  width: 2000px;
+  background-color: rgb(12, 207, 124);
+  -webkit-animation-name: piano36;
+          animation-name: piano36;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4428ms;
+          animation-duration: 4428ms;
+}
+
+@-webkit-keyframes piano36 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano36 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(226, 72, 166);
+}
+.somediv div:nth-child(37) {
+  width: 2000px;
+  background-color: rgb(57, 145, 94);
+  -webkit-animation-name: piano37;
+          animation-name: piano37;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4204ms;
+          animation-duration: 4204ms;
+}
+
+@-webkit-keyframes piano37 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano37 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(121, 165, 154);
+}
+.somediv div:nth-child(38) {
+  width: 2000px;
+  background-color: rgb(63, 197, 115);
+  -webkit-animation-name: piano38;
+          animation-name: piano38;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4385ms;
+          animation-duration: 4385ms;
+}
+
+@-webkit-keyframes piano38 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano38 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(244, 100, 184);
+}
+.somediv div:nth-child(39) {
+  width: 2000px;
+  background-color: rgb(148, 18, 44);
+  -webkit-animation-name: piano39;
+          animation-name: piano39;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4238ms;
+          animation-duration: 4238ms;
+}
+
+@-webkit-keyframes piano39 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano39 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(48, 153, 22);
+}
+.somediv div:nth-child(40) {
+  width: 2000px;
+  background-color: rgb(179, 175, 245);
+  -webkit-animation-name: piano40;
+          animation-name: piano40;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4702ms;
+          animation-duration: 4702ms;
+}
+
+@-webkit-keyframes piano40 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano40 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(107, 16, 170);
+}
+.somediv div:nth-child(41) {
+  width: 2000px;
+  background-color: rgb(2, 143, 219);
+  -webkit-animation-name: piano41;
+          animation-name: piano41;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4005ms;
+          animation-duration: 4005ms;
+}
+
+@-webkit-keyframes piano41 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano41 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(145, 222, 84);
+}
+.somediv div:nth-child(42) {
+  width: 2000px;
+  background-color: rgb(99, 17, 161);
+  -webkit-animation-name: piano42;
+          animation-name: piano42;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4480ms;
+          animation-duration: 4480ms;
+}
+
+@-webkit-keyframes piano42 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano42 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(195, 230, 171);
+}
+.somediv div:nth-child(43) {
+  width: 2000px;
+  background-color: rgb(160, 93, 97);
+  -webkit-animation-name: piano43;
+          animation-name: piano43;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4398ms;
+          animation-duration: 4398ms;
+}
+
+@-webkit-keyframes piano43 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano43 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(255, 91, 241);
+}
+.somediv div:nth-child(44) {
+  width: 2000px;
+  background-color: rgb(63, 19, 89);
+  -webkit-animation-name: piano44;
+          animation-name: piano44;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4985ms;
+          animation-duration: 4985ms;
+}
+
+@-webkit-keyframes piano44 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano44 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(122, 147, 25);
+}
+.somediv div:nth-child(45) {
+  width: 2000px;
+  background-color: rgb(250, 110, 99);
+  -webkit-animation-name: piano45;
+          animation-name: piano45;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4333ms;
+          animation-duration: 4333ms;
+}
+
+@-webkit-keyframes piano45 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano45 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(16, 92, 74);
+}
+.somediv div:nth-child(46) {
+  width: 2000px;
+  background-color: rgb(246, 126, 174);
+  -webkit-animation-name: piano46;
+          animation-name: piano46;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4646ms;
+          animation-duration: 4646ms;
+}
+
+@-webkit-keyframes piano46 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano46 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(212, 91, 117);
+}
+.somediv div:nth-child(47) {
+  width: 2000px;
+  background-color: rgb(105, 50, 53);
+  -webkit-animation-name: piano47;
+          animation-name: piano47;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4870ms;
+          animation-duration: 4870ms;
+}
+
+@-webkit-keyframes piano47 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano47 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(39, 220, 227);
+}
+.somediv div:nth-child(48) {
+  width: 2000px;
+  background-color: rgb(103, 188, 193);
+  -webkit-animation-name: piano48;
+          animation-name: piano48;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4151ms;
+          animation-duration: 4151ms;
+}
+
+@-webkit-keyframes piano48 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano48 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+.somediv:hover {
+  background-color: rgb(252, 35, 168);
+}
+.somediv div:nth-child(49) {
+  width: 2000px;
+  background-color: rgb(109, 238, 254);
+  -webkit-animation-name: piano49;
+          animation-name: piano49;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-duration: 4885ms;
+          animation-duration: 4885ms;
+}
+
+@-webkit-keyframes piano49 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}
+
+@keyframes piano49 {
+  0% {
+    height: 200px;
+  }
+  30% {
+    height: 300px;
+  }
+  70% {
+    height: 400px;
+  }
+  100% {
+    height: 600px;
+  }
+}/*# sourceMappingURL=style.css.map */

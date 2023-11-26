@@ -1,0 +1,5340 @@
+.div div:nth-child(1) {
+  border-radius: 7px;
+  background-color: rgb(61, 67, 70);
+  -webkit-animation-name: circles1;
+          animation-name: circles1;
+  -webkit-animation-duration: 4375ms;
+          animation-duration: 4375ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles1 {
+  0% {
+    left: 24px;
+    top: 832px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 711px;
+    top: 339px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles1 {
+  0% {
+    left: 24px;
+    top: 832px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 711px;
+    top: 339px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(2) {
+  border-radius: 98px;
+  background-color: rgb(30, 87, 227);
+  -webkit-animation-name: circles2;
+          animation-name: circles2;
+  -webkit-animation-duration: 4053ms;
+          animation-duration: 4053ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles2 {
+  0% {
+    left: 199px;
+    top: 59px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 522px;
+    top: 777px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles2 {
+  0% {
+    left: 199px;
+    top: 59px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 522px;
+    top: 777px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(3) {
+  border-radius: 27px;
+  background-color: rgb(105, 3, 193);
+  -webkit-animation-name: circles3;
+          animation-name: circles3;
+  -webkit-animation-duration: 4115ms;
+          animation-duration: 4115ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles3 {
+  0% {
+    left: 93px;
+    top: 505px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 781px;
+    top: 548px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles3 {
+  0% {
+    left: 93px;
+    top: 505px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 781px;
+    top: 548px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(4) {
+  border-radius: 14px;
+  background-color: rgb(146, 109, 79);
+  -webkit-animation-name: circles4;
+          animation-name: circles4;
+  -webkit-animation-duration: 4993ms;
+          animation-duration: 4993ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles4 {
+  0% {
+    left: 587px;
+    top: 612px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 968px;
+    top: 118px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles4 {
+  0% {
+    left: 587px;
+    top: 612px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 968px;
+    top: 118px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(5) {
+  border-radius: 86px;
+  background-color: rgb(183, 236, 169);
+  -webkit-animation-name: circles5;
+          animation-name: circles5;
+  -webkit-animation-duration: 4541ms;
+          animation-duration: 4541ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles5 {
+  0% {
+    left: 99px;
+    top: 205px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 678px;
+    top: 522px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles5 {
+  0% {
+    left: 99px;
+    top: 205px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 678px;
+    top: 522px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(6) {
+  border-radius: 76px;
+  background-color: rgb(109, 186, 2);
+  -webkit-animation-name: circles6;
+          animation-name: circles6;
+  -webkit-animation-duration: 4751ms;
+          animation-duration: 4751ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles6 {
+  0% {
+    left: 705px;
+    top: 130px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 921px;
+    top: 133px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles6 {
+  0% {
+    left: 705px;
+    top: 130px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 921px;
+    top: 133px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(7) {
+  border-radius: 86px;
+  background-color: rgb(243, 157, 204);
+  -webkit-animation-name: circles7;
+          animation-name: circles7;
+  -webkit-animation-duration: 4595ms;
+          animation-duration: 4595ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles7 {
+  0% {
+    left: 313px;
+    top: 743px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1246px;
+    top: 687px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles7 {
+  0% {
+    left: 313px;
+    top: 743px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1246px;
+    top: 687px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(8) {
+  border-radius: 63px;
+  background-color: rgb(35, 60, 240);
+  -webkit-animation-name: circles8;
+          animation-name: circles8;
+  -webkit-animation-duration: 4396ms;
+          animation-duration: 4396ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles8 {
+  0% {
+    left: 791px;
+    top: 675px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 530px;
+    top: 642px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles8 {
+  0% {
+    left: 791px;
+    top: 675px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 530px;
+    top: 642px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(9) {
+  border-radius: 77px;
+  background-color: rgb(129, 60, 121);
+  -webkit-animation-name: circles9;
+          animation-name: circles9;
+  -webkit-animation-duration: 4101ms;
+          animation-duration: 4101ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles9 {
+  0% {
+    left: 966px;
+    top: 701px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1145px;
+    top: 406px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles9 {
+  0% {
+    left: 966px;
+    top: 701px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1145px;
+    top: 406px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(10) {
+  border-radius: 63px;
+  background-color: rgb(152, 59, 226);
+  -webkit-animation-name: circles10;
+          animation-name: circles10;
+  -webkit-animation-duration: 4159ms;
+          animation-duration: 4159ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles10 {
+  0% {
+    left: 231px;
+    top: 497px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 915px;
+    top: 376px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles10 {
+  0% {
+    left: 231px;
+    top: 497px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 915px;
+    top: 376px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(11) {
+  border-radius: 79px;
+  background-color: rgb(15, 1, 69);
+  -webkit-animation-name: circles11;
+          animation-name: circles11;
+  -webkit-animation-duration: 4388ms;
+          animation-duration: 4388ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles11 {
+  0% {
+    left: 496px;
+    top: 605px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 493px;
+    top: 292px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles11 {
+  0% {
+    left: 496px;
+    top: 605px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 493px;
+    top: 292px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(12) {
+  border-radius: 93px;
+  background-color: rgb(184, 203, 16);
+  -webkit-animation-name: circles12;
+          animation-name: circles12;
+  -webkit-animation-duration: 4128ms;
+          animation-duration: 4128ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles12 {
+  0% {
+    left: 830px;
+    top: 947px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 389px;
+    top: 745px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles12 {
+  0% {
+    left: 830px;
+    top: 947px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 389px;
+    top: 745px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(13) {
+  border-radius: 43px;
+  background-color: rgb(15, 192, 125);
+  -webkit-animation-name: circles13;
+          animation-name: circles13;
+  -webkit-animation-duration: 4928ms;
+          animation-duration: 4928ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles13 {
+  0% {
+    left: 515px;
+    top: 711px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1163px;
+    top: 769px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles13 {
+  0% {
+    left: 515px;
+    top: 711px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1163px;
+    top: 769px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(14) {
+  border-radius: 31px;
+  background-color: rgb(100, 167, 91);
+  -webkit-animation-name: circles14;
+          animation-name: circles14;
+  -webkit-animation-duration: 4927ms;
+          animation-duration: 4927ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles14 {
+  0% {
+    left: 503px;
+    top: 112px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 740px;
+    top: 138px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles14 {
+  0% {
+    left: 503px;
+    top: 112px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 740px;
+    top: 138px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(15) {
+  border-radius: 10px;
+  background-color: rgb(213, 107, 252);
+  -webkit-animation-name: circles15;
+          animation-name: circles15;
+  -webkit-animation-duration: 4558ms;
+          animation-duration: 4558ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles15 {
+  0% {
+    left: 953px;
+    top: 155px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 733px;
+    top: 629px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles15 {
+  0% {
+    left: 953px;
+    top: 155px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 733px;
+    top: 629px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(16) {
+  border-radius: 36px;
+  background-color: rgb(157, 168, 245);
+  -webkit-animation-name: circles16;
+          animation-name: circles16;
+  -webkit-animation-duration: 4632ms;
+          animation-duration: 4632ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles16 {
+  0% {
+    left: 546px;
+    top: 290px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 713px;
+    top: 736px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles16 {
+  0% {
+    left: 546px;
+    top: 290px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 713px;
+    top: 736px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(17) {
+  border-radius: 47px;
+  background-color: rgb(85, 5, 129);
+  -webkit-animation-name: circles17;
+          animation-name: circles17;
+  -webkit-animation-duration: 4947ms;
+          animation-duration: 4947ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles17 {
+  0% {
+    left: 238px;
+    top: 599px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1122px;
+    top: 76px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles17 {
+  0% {
+    left: 238px;
+    top: 599px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1122px;
+    top: 76px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(18) {
+  border-radius: 33px;
+  background-color: rgb(128, 99, 73);
+  -webkit-animation-name: circles18;
+          animation-name: circles18;
+  -webkit-animation-duration: 4345ms;
+          animation-duration: 4345ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles18 {
+  0% {
+    left: 914px;
+    top: 416px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 722px;
+    top: 310px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles18 {
+  0% {
+    left: 914px;
+    top: 416px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 722px;
+    top: 310px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(19) {
+  border-radius: 42px;
+  background-color: rgb(40, 60, 36);
+  -webkit-animation-name: circles19;
+          animation-name: circles19;
+  -webkit-animation-duration: 4054ms;
+          animation-duration: 4054ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles19 {
+  0% {
+    left: 424px;
+    top: 312px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1125px;
+    top: 383px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles19 {
+  0% {
+    left: 424px;
+    top: 312px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1125px;
+    top: 383px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(20) {
+  border-radius: 42px;
+  background-color: rgb(78, 98, 198);
+  -webkit-animation-name: circles20;
+          animation-name: circles20;
+  -webkit-animation-duration: 4379ms;
+          animation-duration: 4379ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles20 {
+  0% {
+    left: 263px;
+    top: 657px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 667px;
+    top: 635px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles20 {
+  0% {
+    left: 263px;
+    top: 657px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 667px;
+    top: 635px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(21) {
+  border-radius: 53px;
+  background-color: rgb(3, 187, 9);
+  -webkit-animation-name: circles21;
+          animation-name: circles21;
+  -webkit-animation-duration: 4278ms;
+          animation-duration: 4278ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles21 {
+  0% {
+    left: 357px;
+    top: 74px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 891px;
+    top: 69px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles21 {
+  0% {
+    left: 357px;
+    top: 74px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 891px;
+    top: 69px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(22) {
+  border-radius: 89px;
+  background-color: rgb(173, 91, 182);
+  -webkit-animation-name: circles22;
+          animation-name: circles22;
+  -webkit-animation-duration: 4798ms;
+          animation-duration: 4798ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles22 {
+  0% {
+    left: 879px;
+    top: 668px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 723px;
+    top: 418px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles22 {
+  0% {
+    left: 879px;
+    top: 668px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 723px;
+    top: 418px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(23) {
+  border-radius: 18px;
+  background-color: rgb(173, 7, 70);
+  -webkit-animation-name: circles23;
+          animation-name: circles23;
+  -webkit-animation-duration: 4039ms;
+          animation-duration: 4039ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles23 {
+  0% {
+    left: 417px;
+    top: 697px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1030px;
+    top: 551px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles23 {
+  0% {
+    left: 417px;
+    top: 697px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1030px;
+    top: 551px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(24) {
+  border-radius: 72px;
+  background-color: rgb(179, 139, 149);
+  -webkit-animation-name: circles24;
+          animation-name: circles24;
+  -webkit-animation-duration: 4582ms;
+          animation-duration: 4582ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles24 {
+  0% {
+    left: 324px;
+    top: 90px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 807px;
+    top: 518px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles24 {
+  0% {
+    left: 324px;
+    top: 90px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 807px;
+    top: 518px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(25) {
+  border-radius: 17px;
+  background-color: rgb(190, 83, 189);
+  -webkit-animation-name: circles25;
+          animation-name: circles25;
+  -webkit-animation-duration: 4163ms;
+          animation-duration: 4163ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles25 {
+  0% {
+    left: 83px;
+    top: 72px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 565px;
+    top: 408px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles25 {
+  0% {
+    left: 83px;
+    top: 72px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 565px;
+    top: 408px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(26) {
+  border-radius: 94px;
+  background-color: rgb(133, 177, 98);
+  -webkit-animation-name: circles26;
+          animation-name: circles26;
+  -webkit-animation-duration: 4008ms;
+          animation-duration: 4008ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles26 {
+  0% {
+    left: 798px;
+    top: 90px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1002px;
+    top: 385px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles26 {
+  0% {
+    left: 798px;
+    top: 90px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1002px;
+    top: 385px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(27) {
+  border-radius: 10px;
+  background-color: rgb(245, 220, 174);
+  -webkit-animation-name: circles27;
+          animation-name: circles27;
+  -webkit-animation-duration: 4413ms;
+          animation-duration: 4413ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles27 {
+  0% {
+    left: 720px;
+    top: 420px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 676px;
+    top: 172px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles27 {
+  0% {
+    left: 720px;
+    top: 420px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 676px;
+    top: 172px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(28) {
+  border-radius: 33px;
+  background-color: rgb(61, 81, 12);
+  -webkit-animation-name: circles28;
+          animation-name: circles28;
+  -webkit-animation-duration: 4803ms;
+          animation-duration: 4803ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles28 {
+  0% {
+    left: 645px;
+    top: 355px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 376px;
+    top: 66px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles28 {
+  0% {
+    left: 645px;
+    top: 355px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 376px;
+    top: 66px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(29) {
+  border-radius: 76px;
+  background-color: rgb(151, 176, 142);
+  -webkit-animation-name: circles29;
+          animation-name: circles29;
+  -webkit-animation-duration: 4743ms;
+          animation-duration: 4743ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles29 {
+  0% {
+    left: 883px;
+    top: 780px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1010px;
+    top: 681px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles29 {
+  0% {
+    left: 883px;
+    top: 780px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1010px;
+    top: 681px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(30) {
+  border-radius: 80px;
+  background-color: rgb(74, 36, 76);
+  -webkit-animation-name: circles30;
+          animation-name: circles30;
+  -webkit-animation-duration: 4579ms;
+          animation-duration: 4579ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles30 {
+  0% {
+    left: 109px;
+    top: 565px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 695px;
+    top: 10px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles30 {
+  0% {
+    left: 109px;
+    top: 565px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 695px;
+    top: 10px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(31) {
+  border-radius: 88px;
+  background-color: rgb(32, 171, 4);
+  -webkit-animation-name: circles31;
+          animation-name: circles31;
+  -webkit-animation-duration: 4683ms;
+          animation-duration: 4683ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles31 {
+  0% {
+    left: 507px;
+    top: 521px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 813px;
+    top: 261px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles31 {
+  0% {
+    left: 507px;
+    top: 521px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 813px;
+    top: 261px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(32) {
+  border-radius: 73px;
+  background-color: rgb(168, 37, 207);
+  -webkit-animation-name: circles32;
+          animation-name: circles32;
+  -webkit-animation-duration: 4824ms;
+          animation-duration: 4824ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles32 {
+  0% {
+    left: 803px;
+    top: 619px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 860px;
+    top: 73px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles32 {
+  0% {
+    left: 803px;
+    top: 619px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 860px;
+    top: 73px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(33) {
+  border-radius: 86px;
+  background-color: rgb(166, 64, 138);
+  -webkit-animation-name: circles33;
+          animation-name: circles33;
+  -webkit-animation-duration: 4251ms;
+          animation-duration: 4251ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles33 {
+  0% {
+    left: 384px;
+    top: 918px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1106px;
+    top: 600px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles33 {
+  0% {
+    left: 384px;
+    top: 918px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1106px;
+    top: 600px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(34) {
+  border-radius: 26px;
+  background-color: rgb(14, 190, 23);
+  -webkit-animation-name: circles34;
+          animation-name: circles34;
+  -webkit-animation-duration: 4324ms;
+          animation-duration: 4324ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles34 {
+  0% {
+    left: 305px;
+    top: 536px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 821px;
+    top: 476px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles34 {
+  0% {
+    left: 305px;
+    top: 536px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 821px;
+    top: 476px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(35) {
+  border-radius: 68px;
+  background-color: rgb(5, 171, 64);
+  -webkit-animation-name: circles35;
+          animation-name: circles35;
+  -webkit-animation-duration: 4773ms;
+          animation-duration: 4773ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles35 {
+  0% {
+    left: 838px;
+    top: 357px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1028px;
+    top: 198px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles35 {
+  0% {
+    left: 838px;
+    top: 357px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1028px;
+    top: 198px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(36) {
+  border-radius: 23px;
+  background-color: rgb(203, 28, 153);
+  -webkit-animation-name: circles36;
+          animation-name: circles36;
+  -webkit-animation-duration: 4703ms;
+          animation-duration: 4703ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles36 {
+  0% {
+    left: 701px;
+    top: 454px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 473px;
+    top: 630px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles36 {
+  0% {
+    left: 701px;
+    top: 454px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 473px;
+    top: 630px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(37) {
+  border-radius: 75px;
+  background-color: rgb(101, 80, 169);
+  -webkit-animation-name: circles37;
+          animation-name: circles37;
+  -webkit-animation-duration: 4601ms;
+          animation-duration: 4601ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles37 {
+  0% {
+    left: 876px;
+    top: 980px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 313px;
+    top: 566px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles37 {
+  0% {
+    left: 876px;
+    top: 980px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 313px;
+    top: 566px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(38) {
+  border-radius: 50px;
+  background-color: rgb(233, 92, 55);
+  -webkit-animation-name: circles38;
+          animation-name: circles38;
+  -webkit-animation-duration: 4257ms;
+          animation-duration: 4257ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles38 {
+  0% {
+    left: 263px;
+    top: 461px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1041px;
+    top: 74px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles38 {
+  0% {
+    left: 263px;
+    top: 461px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1041px;
+    top: 74px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(39) {
+  border-radius: 31px;
+  background-color: rgb(104, 152, 153);
+  -webkit-animation-name: circles39;
+          animation-name: circles39;
+  -webkit-animation-duration: 4725ms;
+          animation-duration: 4725ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles39 {
+  0% {
+    left: 614px;
+    top: 403px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 386px;
+    top: 95px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles39 {
+  0% {
+    left: 614px;
+    top: 403px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 386px;
+    top: 95px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(40) {
+  border-radius: 71px;
+  background-color: rgb(92, 147, 244);
+  -webkit-animation-name: circles40;
+          animation-name: circles40;
+  -webkit-animation-duration: 4881ms;
+          animation-duration: 4881ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles40 {
+  0% {
+    left: 459px;
+    top: 410px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 969px;
+    top: 611px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles40 {
+  0% {
+    left: 459px;
+    top: 410px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 969px;
+    top: 611px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(41) {
+  border-radius: 95px;
+  background-color: rgb(88, 118, 204);
+  -webkit-animation-name: circles41;
+          animation-name: circles41;
+  -webkit-animation-duration: 4248ms;
+          animation-duration: 4248ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles41 {
+  0% {
+    left: 949px;
+    top: 969px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 758px;
+    top: 772px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles41 {
+  0% {
+    left: 949px;
+    top: 969px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 758px;
+    top: 772px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(42) {
+  border-radius: 6px;
+  background-color: rgb(190, 186, 192);
+  -webkit-animation-name: circles42;
+          animation-name: circles42;
+  -webkit-animation-duration: 4654ms;
+          animation-duration: 4654ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles42 {
+  0% {
+    left: 356px;
+    top: 702px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 924px;
+    top: 475px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles42 {
+  0% {
+    left: 356px;
+    top: 702px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 924px;
+    top: 475px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(43) {
+  border-radius: 53px;
+  background-color: rgb(176, 95, 53);
+  -webkit-animation-name: circles43;
+          animation-name: circles43;
+  -webkit-animation-duration: 4913ms;
+          animation-duration: 4913ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles43 {
+  0% {
+    left: 737px;
+    top: 384px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 977px;
+    top: 765px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles43 {
+  0% {
+    left: 737px;
+    top: 384px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 977px;
+    top: 765px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(44) {
+  border-radius: 83px;
+  background-color: rgb(163, 181, 251);
+  -webkit-animation-name: circles44;
+          animation-name: circles44;
+  -webkit-animation-duration: 4737ms;
+          animation-duration: 4737ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles44 {
+  0% {
+    left: 118px;
+    top: 815px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 762px;
+    top: 501px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles44 {
+  0% {
+    left: 118px;
+    top: 815px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 762px;
+    top: 501px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(45) {
+  border-radius: 84px;
+  background-color: rgb(71, 8, 145);
+  -webkit-animation-name: circles45;
+          animation-name: circles45;
+  -webkit-animation-duration: 4836ms;
+          animation-duration: 4836ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles45 {
+  0% {
+    left: 785px;
+    top: 830px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 565px;
+    top: 198px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles45 {
+  0% {
+    left: 785px;
+    top: 830px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 565px;
+    top: 198px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(46) {
+  border-radius: 50px;
+  background-color: rgb(69, 221, 229);
+  -webkit-animation-name: circles46;
+          animation-name: circles46;
+  -webkit-animation-duration: 4059ms;
+          animation-duration: 4059ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles46 {
+  0% {
+    left: 507px;
+    top: 572px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 747px;
+    top: 379px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles46 {
+  0% {
+    left: 507px;
+    top: 572px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 747px;
+    top: 379px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(47) {
+  border-radius: 14px;
+  background-color: rgb(253, 72, 20);
+  -webkit-animation-name: circles47;
+          animation-name: circles47;
+  -webkit-animation-duration: 4137ms;
+          animation-duration: 4137ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles47 {
+  0% {
+    left: 241px;
+    top: 365px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 983px;
+    top: 387px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles47 {
+  0% {
+    left: 241px;
+    top: 365px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 983px;
+    top: 387px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(48) {
+  border-radius: 79px;
+  background-color: rgb(108, 115, 97);
+  -webkit-animation-name: circles48;
+          animation-name: circles48;
+  -webkit-animation-duration: 4283ms;
+          animation-duration: 4283ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles48 {
+  0% {
+    left: 101px;
+    top: 794px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 325px;
+    top: 108px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles48 {
+  0% {
+    left: 101px;
+    top: 794px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 325px;
+    top: 108px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(49) {
+  border-radius: 37px;
+  background-color: rgb(173, 230, 115);
+  -webkit-animation-name: circles49;
+          animation-name: circles49;
+  -webkit-animation-duration: 4633ms;
+          animation-duration: 4633ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles49 {
+  0% {
+    left: 910px;
+    top: 218px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 433px;
+    top: 298px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles49 {
+  0% {
+    left: 910px;
+    top: 218px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 433px;
+    top: 298px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(50) {
+  border-radius: 1px;
+  background-color: rgb(215, 120, 130);
+  -webkit-animation-name: circles50;
+          animation-name: circles50;
+  -webkit-animation-duration: 4299ms;
+          animation-duration: 4299ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles50 {
+  0% {
+    left: 22px;
+    top: 439px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 478px;
+    top: 354px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles50 {
+  0% {
+    left: 22px;
+    top: 439px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 478px;
+    top: 354px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(51) {
+  border-radius: 92px;
+  background-color: rgb(17, 77, 98);
+  -webkit-animation-name: circles51;
+          animation-name: circles51;
+  -webkit-animation-duration: 4001ms;
+          animation-duration: 4001ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles51 {
+  0% {
+    left: 295px;
+    top: 934px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 382px;
+    top: 103px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles51 {
+  0% {
+    left: 295px;
+    top: 934px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 382px;
+    top: 103px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(52) {
+  border-radius: 46px;
+  background-color: rgb(123, 30, 215);
+  -webkit-animation-name: circles52;
+          animation-name: circles52;
+  -webkit-animation-duration: 4220ms;
+          animation-duration: 4220ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles52 {
+  0% {
+    left: 260px;
+    top: 428px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1175px;
+    top: 744px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles52 {
+  0% {
+    left: 260px;
+    top: 428px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1175px;
+    top: 744px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(53) {
+  border-radius: 97px;
+  background-color: rgb(45, 71, 125);
+  -webkit-animation-name: circles53;
+          animation-name: circles53;
+  -webkit-animation-duration: 4685ms;
+          animation-duration: 4685ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles53 {
+  0% {
+    left: 677px;
+    top: 254px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1265px;
+    top: 647px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles53 {
+  0% {
+    left: 677px;
+    top: 254px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1265px;
+    top: 647px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(54) {
+  border-radius: 92px;
+  background-color: rgb(93, 238, 231);
+  -webkit-animation-name: circles54;
+          animation-name: circles54;
+  -webkit-animation-duration: 4797ms;
+          animation-duration: 4797ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles54 {
+  0% {
+    left: 970px;
+    top: 297px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 906px;
+    top: 702px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles54 {
+  0% {
+    left: 970px;
+    top: 297px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 906px;
+    top: 702px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(55) {
+  border-radius: 37px;
+  background-color: rgb(218, 165, 247);
+  -webkit-animation-name: circles55;
+          animation-name: circles55;
+  -webkit-animation-duration: 4288ms;
+          animation-duration: 4288ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles55 {
+  0% {
+    left: 713px;
+    top: 354px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 852px;
+    top: 562px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles55 {
+  0% {
+    left: 713px;
+    top: 354px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 852px;
+    top: 562px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(56) {
+  border-radius: 42px;
+  background-color: rgb(6, 220, 140);
+  -webkit-animation-name: circles56;
+          animation-name: circles56;
+  -webkit-animation-duration: 4027ms;
+          animation-duration: 4027ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles56 {
+  0% {
+    left: 180px;
+    top: 947px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 516px;
+    top: 522px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles56 {
+  0% {
+    left: 180px;
+    top: 947px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 516px;
+    top: 522px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(57) {
+  border-radius: 9px;
+  background-color: rgb(136, 231, 142);
+  -webkit-animation-name: circles57;
+          animation-name: circles57;
+  -webkit-animation-duration: 4702ms;
+          animation-duration: 4702ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles57 {
+  0% {
+    left: 176px;
+    top: 532px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 613px;
+    top: 481px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles57 {
+  0% {
+    left: 176px;
+    top: 532px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 613px;
+    top: 481px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(58) {
+  border-radius: 36px;
+  background-color: rgb(75, 182, 210);
+  -webkit-animation-name: circles58;
+          animation-name: circles58;
+  -webkit-animation-duration: 4270ms;
+          animation-duration: 4270ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles58 {
+  0% {
+    left: 232px;
+    top: 316px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 473px;
+    top: 570px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles58 {
+  0% {
+    left: 232px;
+    top: 316px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 473px;
+    top: 570px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(59) {
+  border-radius: 12px;
+  background-color: rgb(65, 230, 31);
+  -webkit-animation-name: circles59;
+          animation-name: circles59;
+  -webkit-animation-duration: 4616ms;
+          animation-duration: 4616ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles59 {
+  0% {
+    left: 449px;
+    top: 381px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 695px;
+    top: 191px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles59 {
+  0% {
+    left: 449px;
+    top: 381px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 695px;
+    top: 191px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(60) {
+  border-radius: 58px;
+  background-color: rgb(194, 5, 213);
+  -webkit-animation-name: circles60;
+          animation-name: circles60;
+  -webkit-animation-duration: 4589ms;
+          animation-duration: 4589ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles60 {
+  0% {
+    left: 591px;
+    top: 540px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1289px;
+    top: 362px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles60 {
+  0% {
+    left: 591px;
+    top: 540px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1289px;
+    top: 362px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(61) {
+  border-radius: 8px;
+  background-color: rgb(1, 92, 127);
+  -webkit-animation-name: circles61;
+          animation-name: circles61;
+  -webkit-animation-duration: 4543ms;
+          animation-duration: 4543ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles61 {
+  0% {
+    left: 818px;
+    top: 612px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 693px;
+    top: 491px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles61 {
+  0% {
+    left: 818px;
+    top: 612px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 693px;
+    top: 491px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(62) {
+  border-radius: 68px;
+  background-color: rgb(156, 134, 74);
+  -webkit-animation-name: circles62;
+          animation-name: circles62;
+  -webkit-animation-duration: 4284ms;
+          animation-duration: 4284ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles62 {
+  0% {
+    left: 751px;
+    top: 847px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 323px;
+    top: 735px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles62 {
+  0% {
+    left: 751px;
+    top: 847px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 323px;
+    top: 735px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(63) {
+  border-radius: 1px;
+  background-color: rgb(218, 74, 61);
+  -webkit-animation-name: circles63;
+          animation-name: circles63;
+  -webkit-animation-duration: 4233ms;
+          animation-duration: 4233ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles63 {
+  0% {
+    left: 24px;
+    top: 381px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 700px;
+    top: 707px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles63 {
+  0% {
+    left: 24px;
+    top: 381px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 700px;
+    top: 707px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(64) {
+  border-radius: 8px;
+  background-color: rgb(150, 5, 232);
+  -webkit-animation-name: circles64;
+          animation-name: circles64;
+  -webkit-animation-duration: 4984ms;
+          animation-duration: 4984ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles64 {
+  0% {
+    left: 319px;
+    top: 952px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 891px;
+    top: 268px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles64 {
+  0% {
+    left: 319px;
+    top: 952px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 891px;
+    top: 268px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(65) {
+  border-radius: 90px;
+  background-color: rgb(117, 117, 155);
+  -webkit-animation-name: circles65;
+          animation-name: circles65;
+  -webkit-animation-duration: 4018ms;
+          animation-duration: 4018ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles65 {
+  0% {
+    left: 32px;
+    top: 103px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1024px;
+    top: 776px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles65 {
+  0% {
+    left: 32px;
+    top: 103px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1024px;
+    top: 776px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(66) {
+  border-radius: 99px;
+  background-color: rgb(77, 166, 202);
+  -webkit-animation-name: circles66;
+          animation-name: circles66;
+  -webkit-animation-duration: 4194ms;
+          animation-duration: 4194ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles66 {
+  0% {
+    left: 969px;
+    top: 178px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 375px;
+    top: 404px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles66 {
+  0% {
+    left: 969px;
+    top: 178px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 375px;
+    top: 404px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(67) {
+  border-radius: 32px;
+  background-color: rgb(155, 106, 87);
+  -webkit-animation-name: circles67;
+          animation-name: circles67;
+  -webkit-animation-duration: 4614ms;
+          animation-duration: 4614ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles67 {
+  0% {
+    left: 775px;
+    top: 727px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 635px;
+    top: 767px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles67 {
+  0% {
+    left: 775px;
+    top: 727px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 635px;
+    top: 767px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(68) {
+  border-radius: 81px;
+  background-color: rgb(71, 83, 112);
+  -webkit-animation-name: circles68;
+          animation-name: circles68;
+  -webkit-animation-duration: 4562ms;
+          animation-duration: 4562ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles68 {
+  0% {
+    left: 817px;
+    top: 286px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1233px;
+    top: 278px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles68 {
+  0% {
+    left: 817px;
+    top: 286px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1233px;
+    top: 278px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(69) {
+  border-radius: 56px;
+  background-color: rgb(83, 5, 36);
+  -webkit-animation-name: circles69;
+          animation-name: circles69;
+  -webkit-animation-duration: 4834ms;
+          animation-duration: 4834ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles69 {
+  0% {
+    left: 254px;
+    top: 518px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 673px;
+    top: 302px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles69 {
+  0% {
+    left: 254px;
+    top: 518px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 673px;
+    top: 302px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(70) {
+  border-radius: 5px;
+  background-color: rgb(187, 2, 166);
+  -webkit-animation-name: circles70;
+          animation-name: circles70;
+  -webkit-animation-duration: 4905ms;
+          animation-duration: 4905ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles70 {
+  0% {
+    left: 713px;
+    top: 338px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 306px;
+    top: 441px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles70 {
+  0% {
+    left: 713px;
+    top: 338px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 306px;
+    top: 441px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(71) {
+  border-radius: 64px;
+  background-color: rgb(185, 224, 86);
+  -webkit-animation-name: circles71;
+          animation-name: circles71;
+  -webkit-animation-duration: 4921ms;
+          animation-duration: 4921ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles71 {
+  0% {
+    left: 11px;
+    top: 128px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 843px;
+    top: 682px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles71 {
+  0% {
+    left: 11px;
+    top: 128px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 843px;
+    top: 682px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(72) {
+  border-radius: 97px;
+  background-color: rgb(202, 214, 111);
+  -webkit-animation-name: circles72;
+          animation-name: circles72;
+  -webkit-animation-duration: 4112ms;
+          animation-duration: 4112ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles72 {
+  0% {
+    left: 825px;
+    top: 473px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 606px;
+    top: 757px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles72 {
+  0% {
+    left: 825px;
+    top: 473px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 606px;
+    top: 757px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(73) {
+  border-radius: 5px;
+  background-color: rgb(156, 18, 6);
+  -webkit-animation-name: circles73;
+          animation-name: circles73;
+  -webkit-animation-duration: 4644ms;
+          animation-duration: 4644ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles73 {
+  0% {
+    left: 931px;
+    top: 432px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 715px;
+    top: 205px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles73 {
+  0% {
+    left: 931px;
+    top: 432px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 715px;
+    top: 205px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(74) {
+  border-radius: 83px;
+  background-color: rgb(235, 7, 191);
+  -webkit-animation-name: circles74;
+          animation-name: circles74;
+  -webkit-animation-duration: 4149ms;
+          animation-duration: 4149ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles74 {
+  0% {
+    left: 56px;
+    top: 854px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1186px;
+    top: 361px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles74 {
+  0% {
+    left: 56px;
+    top: 854px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1186px;
+    top: 361px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(75) {
+  border-radius: 91px;
+  background-color: rgb(102, 48, 9);
+  -webkit-animation-name: circles75;
+          animation-name: circles75;
+  -webkit-animation-duration: 4092ms;
+          animation-duration: 4092ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles75 {
+  0% {
+    left: 995px;
+    top: 453px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 727px;
+    top: 124px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles75 {
+  0% {
+    left: 995px;
+    top: 453px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 727px;
+    top: 124px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(76) {
+  border-radius: 8px;
+  background-color: rgb(1, 109, 31);
+  -webkit-animation-name: circles76;
+          animation-name: circles76;
+  -webkit-animation-duration: 4172ms;
+          animation-duration: 4172ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles76 {
+  0% {
+    left: 860px;
+    top: 268px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 395px;
+    top: 641px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles76 {
+  0% {
+    left: 860px;
+    top: 268px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 395px;
+    top: 641px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(77) {
+  border-radius: 51px;
+  background-color: rgb(151, 245, 6);
+  -webkit-animation-name: circles77;
+          animation-name: circles77;
+  -webkit-animation-duration: 4843ms;
+          animation-duration: 4843ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles77 {
+  0% {
+    left: 885px;
+    top: 1000px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 893px;
+    top: 703px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles77 {
+  0% {
+    left: 885px;
+    top: 1000px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 893px;
+    top: 703px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(78) {
+  border-radius: 90px;
+  background-color: rgb(237, 13, 101);
+  -webkit-animation-name: circles78;
+          animation-name: circles78;
+  -webkit-animation-duration: 4959ms;
+          animation-duration: 4959ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles78 {
+  0% {
+    left: 947px;
+    top: 39px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 594px;
+    top: 116px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles78 {
+  0% {
+    left: 947px;
+    top: 39px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 594px;
+    top: 116px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(79) {
+  border-radius: 70px;
+  background-color: rgb(82, 241, 238);
+  -webkit-animation-name: circles79;
+          animation-name: circles79;
+  -webkit-animation-duration: 4151ms;
+          animation-duration: 4151ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles79 {
+  0% {
+    left: 612px;
+    top: 480px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 843px;
+    top: 789px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles79 {
+  0% {
+    left: 612px;
+    top: 480px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 843px;
+    top: 789px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(80) {
+  border-radius: 67px;
+  background-color: rgb(181, 140, 203);
+  -webkit-animation-name: circles80;
+          animation-name: circles80;
+  -webkit-animation-duration: 4037ms;
+          animation-duration: 4037ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles80 {
+  0% {
+    left: 39px;
+    top: 54px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 382px;
+    top: 634px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles80 {
+  0% {
+    left: 39px;
+    top: 54px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 382px;
+    top: 634px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(81) {
+  border-radius: 50px;
+  background-color: rgb(15, 202, 173);
+  -webkit-animation-name: circles81;
+          animation-name: circles81;
+  -webkit-animation-duration: 4873ms;
+          animation-duration: 4873ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles81 {
+  0% {
+    left: 252px;
+    top: 248px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 825px;
+    top: 526px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles81 {
+  0% {
+    left: 252px;
+    top: 248px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 825px;
+    top: 526px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(82) {
+  border-radius: 55px;
+  background-color: rgb(18, 8, 11);
+  -webkit-animation-name: circles82;
+          animation-name: circles82;
+  -webkit-animation-duration: 4306ms;
+          animation-duration: 4306ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles82 {
+  0% {
+    left: 90px;
+    top: 61px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 818px;
+    top: 545px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles82 {
+  0% {
+    left: 90px;
+    top: 61px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 818px;
+    top: 545px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(83) {
+  border-radius: 30px;
+  background-color: rgb(196, 132, 112);
+  -webkit-animation-name: circles83;
+          animation-name: circles83;
+  -webkit-animation-duration: 4782ms;
+          animation-duration: 4782ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles83 {
+  0% {
+    left: 76px;
+    top: 994px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 491px;
+    top: 466px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles83 {
+  0% {
+    left: 76px;
+    top: 994px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 491px;
+    top: 466px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(84) {
+  border-radius: 48px;
+  background-color: rgb(50, 152, 76);
+  -webkit-animation-name: circles84;
+          animation-name: circles84;
+  -webkit-animation-duration: 4117ms;
+          animation-duration: 4117ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles84 {
+  0% {
+    left: 449px;
+    top: 140px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1122px;
+    top: 188px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles84 {
+  0% {
+    left: 449px;
+    top: 140px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1122px;
+    top: 188px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(85) {
+  border-radius: 3px;
+  background-color: rgb(237, 146, 40);
+  -webkit-animation-name: circles85;
+          animation-name: circles85;
+  -webkit-animation-duration: 4976ms;
+          animation-duration: 4976ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles85 {
+  0% {
+    left: 133px;
+    top: 798px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 740px;
+    top: 481px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles85 {
+  0% {
+    left: 133px;
+    top: 798px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 740px;
+    top: 481px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(86) {
+  border-radius: 43px;
+  background-color: rgb(78, 141, 9);
+  -webkit-animation-name: circles86;
+          animation-name: circles86;
+  -webkit-animation-duration: 4504ms;
+          animation-duration: 4504ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles86 {
+  0% {
+    left: 120px;
+    top: 758px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 490px;
+    top: 200px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles86 {
+  0% {
+    left: 120px;
+    top: 758px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 490px;
+    top: 200px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(87) {
+  border-radius: 62px;
+  background-color: rgb(201, 171, 166);
+  -webkit-animation-name: circles87;
+          animation-name: circles87;
+  -webkit-animation-duration: 4175ms;
+          animation-duration: 4175ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles87 {
+  0% {
+    left: 184px;
+    top: 64px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 719px;
+    top: 196px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles87 {
+  0% {
+    left: 184px;
+    top: 64px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 719px;
+    top: 196px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(88) {
+  border-radius: 32px;
+  background-color: rgb(143, 255, 23);
+  -webkit-animation-name: circles88;
+          animation-name: circles88;
+  -webkit-animation-duration: 4974ms;
+          animation-duration: 4974ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles88 {
+  0% {
+    left: 730px;
+    top: 617px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1238px;
+    top: 376px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles88 {
+  0% {
+    left: 730px;
+    top: 617px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 1238px;
+    top: 376px;
+    width: 150px;
+    height: 150px;
+  }
+}
+.div div:nth-child(89) {
+  border-radius: 38px;
+  background-color: rgb(198, 21, 124);
+  -webkit-animation-name: circles89;
+          animation-name: circles89;
+  -webkit-animation-duration: 4610ms;
+          animation-duration: 4610ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  position: absolute;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes circles89 {
+  0% {
+    left: 665px;
+    top: 650px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 374px;
+    top: 122px;
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@keyframes circles89 {
+  0% {
+    left: 665px;
+    top: 650px;
+    width: 50px;
+    height: 50px;
+  }
+  40% {
+    width: 100px;
+    height: 100px;
+  }
+  70% {
+    width: 100px;
+    height: 100px;
+  }
+  100% {
+    left: 374px;
+    top: 122px;
+    width: 150px;
+    height: 150px;
+  }
+}/*# sourceMappingURL=style.css.map */
